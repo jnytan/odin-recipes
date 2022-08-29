@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: auto;
+}
+
+p {
+  font-family: Garamond;
+}
+
+div.container {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  font-family: Garamond;
+  /* text-align: center; */
+}
+
+ul.link {
+  font-size: 20px;
+  font-weight: bold;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ol {
+  font-family: Garamond;
+}
